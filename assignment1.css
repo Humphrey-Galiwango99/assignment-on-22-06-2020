@@ -1,0 +1,20 @@
+h1{
+  color: blueviolet;
+  align-items: center;
+  align-content: center;
+}
+h2{
+  color: aquamarine;
+}
+h3{
+  color: crimson;
+  display: inline-block;
+}
+h4{
+  color: cyan;
+  display: inline;
+}
+.bio-data{
+  color:chartreuse;
+  font-style: italic;
+}
